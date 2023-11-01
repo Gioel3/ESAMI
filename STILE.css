@@ -1,0 +1,45 @@
+body {
+    font-family:Arial, Helvetica, sans-serif
+    background-color white;
+}
+
+img {
+    max-width: 100%;
+}
+
+header {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    max-width: 1200px;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+}
+
+main {
+    max-width: 1200px;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+
+main h3.altro-titolo {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main h4.altro-titolo {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main h5.altro-titolo {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    max-width: 1200px;
+    background-color: white;
+    margin: auto;
+}
